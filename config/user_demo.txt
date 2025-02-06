@@ -1,1 +1,33 @@
-
+央视频道,#genre#
+CCTV1-综合频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226299/39/index.m3u8?fmt=ts2hls
+CCTV2-财经,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV3-综艺,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226040/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4-中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5-体育,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+CCTV5+-体育赛事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226128/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6-电影,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226046/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226250/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7-国防军事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8-电视剧,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226060/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226244/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9-纪录,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10-科教,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV11-戏曲,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV12-社会与法,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV15-音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV14-少儿,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV16-奥林匹克,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226302/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226305/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17-农业农村,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/39/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV4k-超高清,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226319/39/index.m3u8?fmt=ts2hls
+CCTV4-中文国际 美洲,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/39/index.m3u8?fmt=ts2hls
+CCTV4-中文国际 欧洲,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226266/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/39/index.m3u8?fmt=ts2hls
+CCTV-兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/39/index.m3u8?fmt=ts2hls
+CCTV-第一剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/39/index.m3u8?fmt=ts2hls
+CCTV-电视指南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/39/index.m3u8?fmt=ts2hls
+CCTV-风云剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/39/index.m3u8?fmt=ts2hls
+CCTV-风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/39/index.m3u8?fmt=ts2hls
+CCTV-风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/39/index.m3u8?fmt=ts2hls
+CCTV-高尔夫.网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/39/index.m3u8?fmt=ts2hls
+CCTV-怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/39/index.m3u8?fmt=ts2hls
+CCTV-世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/39/index.m3u8?fmt=ts2hls
+CCTV-卫生健康,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226322/39/index.m3u8?fmt=ts2hls
+CCTV-央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/39/index.m3u8?fmt=ts2hls
+CCTV-央视文化精品,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/39/index.m3u8?fmt=ts2hls#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/39/index.m3u8?fmt=ts2hls
